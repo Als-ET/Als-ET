@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/badge/instagram-E4405F?style=simple&logo=instagram&logoColor=white"/></a>
 
 **Als-ET/Als-ET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAls-ET%2FAls-ET&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Als-ET&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,6 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAls-ET%2FAls-ET&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Als-ET&show_icons=true&theme=radical)
