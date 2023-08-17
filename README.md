@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning ...
    <a href="https://www.notion.so/1b2c9900fd2c46e1b4f83593e4c8bee7" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-  <a href="https://www.notion.so/1b2c9900fd2c46e1b4f83593e4c8bee7" target="_blank"><img src="https://img.shields.io/badge/Django-092E20C?style=flat-square&logo=DjangoColor=white"/></a> 
+  <a href="https://www.notion.so/1b2c9900fd2c46e1b4f83593e4c8bee7" target="_blank"><img src="https://img.shields.io/badge/Django-092E20C?style=flat-square&logo=Django&logoColor=white"/></a> 
   
 - 📫 How to reach me: ...
    <a href="https://www.instagram.com/xor_00oh/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=simple&logo=instagram&logoColor=white"/></a>
