@@ -11,6 +11,7 @@
   
 - 📫 How to reach me: ...
    <a href="https://www.instagram.com/xor_00oh/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=simple&logo=instagram&logoColor=white"/></a>
+   <a href="https://www.notion.so/334c81cdaa8a4e5ba89143f4cb180eb3" target="_blank"><img src="https://img.shields.io/badge/notion-E4405F?style=simple&logo=notion&logoColor=white"/></a>
 
 
 
